@@ -1,6 +1,6 @@
 # Finance Machine Learning
 
-Welcome to **Finance_machine_learning** – a project dedicated to applying machine learning techniques for financial data analysis, trading strategies, and risk management.
+Welcome to **Finance_ml** – a project dedicated to applying machine learning techniques for financial data analysis, trading strategies, and risk management.
 
 > **Created and maintained by [Reckonchamp12](https://github.com/Reckonchamp12)**
 
@@ -58,7 +58,7 @@ Finance_machine_learning/
    git clone https://github.com/Reckonchamp12/Finance_ml.git
    cd Finance_ml
 
-
+```
 # Create a virtual environment
 python -m venv venv
 
@@ -71,6 +71,7 @@ source venv/bin/activate
 Install Dependencies:
 
 pip install -r requirements.txt
+```
 
 ## Usage
 Launch Jupyter Notebook:
